@@ -79,10 +79,10 @@
                   var totalExpenses; //total expenses for the user
                   var shelterPct; //shelter category percentage
                   var foodPct;  //food category percentage
-
-
-
-
+                  var householdPct; //household category percentage
+                  var transportationPct; //transportation category percentage
+                  var miscellaneousPct; //miscellaneous category percentage
+                  
                   /******************************************************************************************************
                    * Task 5:  Add the additional code needed to calcuate the total expense and the percentages for each 
                    *          of the NEW categories you've added (Household, Transportation, and Miscellaneous). 
