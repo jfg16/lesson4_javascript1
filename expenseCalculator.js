@@ -33,16 +33,13 @@
                    *
                    * HINT:  Use the following variable names:  householdAmt, miscellaneousAmt, transportationAmt
                   **************************************************************************************************/
-
+                    
                   var shelterAmt = document.getElementById("shelterInput").value;
                   var foodAmt = document.getElementById("foodInput").value;
                   var householdAmt = document.getElementById("householdInput").value;
                   var transportationAmt = document.getElementById("transportationInput").value;
                   var miscellaneousAmt = document.getElementById("miscellaneousInput").value;
-
-
-
-
+                    
                   /*************************************************************************************************
                    * Task 3:  Add the additional code needed that will convert the user's inputs, which are Strings 
                    *          to Floats using the parseFloat() function.  This must be done for ALL of the NEW
@@ -58,13 +55,13 @@
                    * 
                    *          The parseFloat() method is used to convert a String to a Float.
                   **************************************************************************************************/  
-
+                    
                   shelterAmt = parseFloat(shelterAmt);
                   foodAmt = parseFloat(foodAmt);
-
-
-
-
+                  householdAmt = parseFloat(householdAmt);
+                  transportationAmt = parseFloat(transportationAmt);
+                  miscellaneousAmt = parseFloat(miscellaneousAmt);
+                  
                   /******************************************************************************************************
                    * Task 4:  Add the additional code needed to declare variables that will store the calculation
                    *          results for the NEW categories you've added (Household, Transportation, and Miscellaneous). 
