@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(02/16/18)
 
 ### Student Name:  
-(First and Last Name)
+(Jonathan Garcia)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to put into practice what we have learned with variables and ids, to create a calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://jfg16.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (JavaScript is a loosely typed language, that is interpreted in the browser.)
+2. (To display a question onto the screen, the coder uses the <prompt>, <alert>, or <confirm> tag.)
+3. (JavaScript has a list of reserved words that cannot be used for a variable name, which does not have to be declared.)
 
 
 
