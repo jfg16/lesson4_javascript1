@@ -111,6 +111,7 @@
                   householdPct = 100 * (householdAmt / totalExpenses);
                   transportationPct = 100 * (transportationAmt / totalExpenses);
                   miscellaneousPct = 100 * (miscellaneousAmt / totalExpenses);
+                  totalExpenses = shelterAmt + foodAmt + householdAmt + transportationAmt + miscellaneousAmt;
                   
                   /******************************************************************************************************
                    * Task 6:  Add the additional code needed to display the total expenses and the percentages for each 
